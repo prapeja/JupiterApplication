@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="8" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Jupitor Cloud Test" duration-ms="165107" started-at="2022-01-12T14:08:38 IST" finished-at="2022-01-12T14:11:23 IST">
+    <groups>
+    </groups>
+    <test name="Jupitor2 cloud testing" duration-ms="165107" started-at="2022-01-12T14:08:38 IST" finished-at="2022-01-12T14:11:23 IST">
+      <class name="com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="startBrowser" is-config="true" duration-ms="4755" started-at="2022-01-12T14:08:45 IST" finished-at="2022-01-12T14:08:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="setup" is-config="true" duration-ms="0" started-at="2022-01-12T14:08:50 IST" finished-at="2022-01-12T14:08:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifySuccessfulSubmission()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="VerifySuccessfulSubmission" duration-ms="10740" started-at="2022-01-12T14:08:50 IST" description="Validate errors are gone and Run this test 5 times to ensure 100% pass rate" finished-at="2022-01-12T14:09:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySuccessfulSubmission -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="quitBrowser" is-config="true" duration-ms="692" started-at="2022-01-12T14:09:01 IST" finished-at="2022-01-12T14:09:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="startBrowser" is-config="true" duration-ms="5794" started-at="2022-01-12T14:09:01 IST" finished-at="2022-01-12T14:09:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="setup" is-config="true" duration-ms="0" started-at="2022-01-12T14:09:07 IST" finished-at="2022-01-12T14:09:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifySuccessfulSubmission()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="VerifySuccessfulSubmission" duration-ms="10976" started-at="2022-01-12T14:09:07 IST" description="Validate errors are gone and Run this test 5 times to ensure 100% pass rate" finished-at="2022-01-12T14:09:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySuccessfulSubmission -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="quitBrowser" is-config="true" duration-ms="694" started-at="2022-01-12T14:09:18 IST" finished-at="2022-01-12T14:09:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="startBrowser" is-config="true" duration-ms="5279" started-at="2022-01-12T14:09:19 IST" finished-at="2022-01-12T14:09:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="setup" is-config="true" duration-ms="1" started-at="2022-01-12T14:09:24 IST" finished-at="2022-01-12T14:09:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifySuccessfulSubmission()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="VerifySuccessfulSubmission" duration-ms="10890" started-at="2022-01-12T14:09:24 IST" description="Validate errors are gone and Run this test 5 times to ensure 100% pass rate" finished-at="2022-01-12T14:09:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySuccessfulSubmission -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="quitBrowser" is-config="true" duration-ms="692" started-at="2022-01-12T14:09:35 IST" finished-at="2022-01-12T14:09:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="startBrowser" is-config="true" duration-ms="5752" started-at="2022-01-12T14:09:36 IST" finished-at="2022-01-12T14:09:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="setup" is-config="true" duration-ms="0" started-at="2022-01-12T14:09:41 IST" finished-at="2022-01-12T14:09:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="VerifySuccessfulSubmission()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="VerifySuccessfulSubmission" duration-ms="10703" started-at="2022-01-12T14:09:41 IST" description="Validate errors are gone and Run this test 5 times to ensure 100% pass rate" finished-at="2022-01-12T14:09:52 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest.VerifySuccessfulSubmission(TC2_ContactPageSubmitTest.java:30)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1259)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySuccessfulSubmission -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="quitBrowser" is-config="true" duration-ms="684" started-at="2022-01-12T14:09:52 IST" finished-at="2022-01-12T14:09:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="startBrowser" is-config="true" duration-ms="8396" started-at="2022-01-12T14:09:53 IST" finished-at="2022-01-12T14:10:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="setup" is-config="true" duration-ms="0" started-at="2022-01-12T14:10:01 IST" finished-at="2022-01-12T14:10:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifySuccessfulSubmission()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="VerifySuccessfulSubmission" duration-ms="10796" started-at="2022-01-12T14:10:01 IST" description="Validate errors are gone and Run this test 5 times to ensure 100% pass rate" finished-at="2022-01-12T14:10:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySuccessfulSubmission -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest@5e82df6a]" name="quitBrowser" is-config="true" duration-ms="695" started-at="2022-01-12T14:10:12 IST" finished-at="2022-01-12T14:10:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest -->
+      <class name="com.jupiter2.cloud.planittesting.testcases.TC3_CartPageItemsTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC3_CartPageItemsTest@636be97c]" name="startBrowser" is-config="true" duration-ms="7282" started-at="2022-01-12T14:10:13 IST" finished-at="2022-01-12T14:10:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC3_CartPageItemsTest@636be97c]" name="setup" is-config="true" duration-ms="20063" started-at="2022-01-12T14:10:20 IST" finished-at="2022-01-12T14:10:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyCartItems(java.lang.String,java.lang.String)[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC3_CartPageItemsTest@636be97c]" name="verifyCartItems" duration-ms="7282" started-at="2022-01-12T14:10:40 IST" description="Add items to cart and verify cart items" data-provider="AddTwoItemsToCart" finished-at="2022-01-12T14:10:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Funny Cow,Fluffy Bunny]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2,1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartItems -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC3_CartPageItemsTest@636be97c]" name="quitBrowser" is-config="true" duration-ms="676" started-at="2022-01-12T14:10:47 IST" finished-at="2022-01-12T14:10:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.jupiter2.cloud.planittesting.testcases.TC3_CartPageItemsTest -->
+      <class name="com.jupiter2.cloud.planittesting.testcases.TC1_ContactPageErrorTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC1_ContactPageErrorTest@1d119efb]" name="startBrowser" is-config="true" duration-ms="5282" started-at="2022-01-12T14:08:38 IST" finished-at="2022-01-12T14:08:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC1_ContactPageErrorTest@1d119efb]" name="setup" is-config="true" duration-ms="10" started-at="2022-01-12T14:08:43 IST" finished-at="2022-01-12T14:08:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateErrors()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC1_ContactPageErrorTest@1d119efb]" name="validateErrors" duration-ms="1029" started-at="2022-01-12T14:08:43 IST" description="Validate errors on Contact Page" finished-at="2022-01-12T14:08:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateErrors -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC1_ContactPageErrorTest@1d119efb]" name="quitBrowser" is-config="true" duration-ms="667" started-at="2022-01-12T14:08:44 IST" finished-at="2022-01-12T14:08:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.jupiter2.cloud.planittesting.testcases.TC1_ContactPageErrorTest -->
+      <class name="com.jupiter2.cloud.planittesting.testcases.TC4_CartPageTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC4_CartPageTest@1817d444]" name="startBrowser" is-config="true" duration-ms="6939" started-at="2022-01-12T14:10:48 IST" finished-at="2022-01-12T14:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC4_CartPageTest@1817d444]" name="setup" is-config="true" duration-ms="20055" started-at="2022-01-12T14:10:55 IST" finished-at="2022-01-12T14:11:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyPriceAndSubTotal(java.lang.String,java.lang.String)[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC4_CartPageTest@1817d444]" name="verifyPriceAndSubTotal" duration-ms="7293" started-at="2022-01-12T14:11:15 IST" description="Add items to cart and verify price, subtotal and total of items" data-provider="AddThreeItemsToCart" finished-at="2022-01-12T14:11:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Stuffed Frog,Fluffy Bunny,Valentine Bear]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2,5,3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPriceAndSubTotal -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC4_CartPageTest@1817d444]" name="quitBrowser" is-config="true" duration-ms="701" started-at="2022-01-12T14:11:22 IST" finished-at="2022-01-12T14:11:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.jupiter2.cloud.planittesting.testcases.TC4_CartPageTest -->
+    </test> <!-- Jupitor2 cloud testing -->
+  </suite> <!-- Jupitor Cloud Test -->
+</testng-results>

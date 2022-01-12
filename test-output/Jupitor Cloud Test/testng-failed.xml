@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Jupitor Cloud Test]">
+  <listeners>
+    <listener class-name="com.jupiter2.cloud.planittesting.listeners.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Jupitor2 cloud testing(failed)">
+    <classes>
+      <class name="com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest">
+        <methods>
+          <include name="VerifySuccessfulSubmission"/>
+          <include name="quitBrowser"/>
+          <include name="startBrowser"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.jupiter2.cloud.planittesting.testcases.TC2_ContactPageSubmitTest -->
+    </classes>
+  </test> <!-- Jupitor2 cloud testing(failed) -->
+</suite> <!-- Failed suite [Jupitor Cloud Test] -->

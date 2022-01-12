@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Jupitor Cloud Test" duration-ms="65548" started-at="2022-01-10T21:06:36 IST" finished-at="2022-01-10T21:07:41 IST">
+    <groups>
+    </groups>
+    <test name="Jupitor2 cloud testing" duration-ms="65548" started-at="2022-01-10T21:06:36 IST" finished-at="2022-01-10T21:07:41 IST">
+      <class name="com.jupiter2.cloud.planittesting.testcases.TC3_CartPageItemsTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC3_CartPageItemsTest@159f197]" name="startBrowser" is-config="true" duration-ms="2929" started-at="2022-01-10T21:06:41 IST" finished-at="2022-01-10T21:06:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC3_CartPageItemsTest@159f197]" name="setup" is-config="true" duration-ms="20095" started-at="2022-01-10T21:06:44 IST" finished-at="2022-01-10T21:07:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyCartItems(java.lang.String,java.lang.String)[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC3_CartPageItemsTest@159f197]" name="verifyCartItems" duration-ms="7225" started-at="2022-01-10T21:07:04 IST" description="Add items to cart and verify cart items" data-provider="AddTwoItemsToCart" finished-at="2022-01-10T21:07:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Funny Cow,Fluffy Bunny]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2,1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartItems -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC3_CartPageItemsTest@159f197]" name="quitBrowser" is-config="true" duration-ms="692" started-at="2022-01-10T21:07:11 IST" finished-at="2022-01-10T21:07:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.jupiter2.cloud.planittesting.testcases.TC3_CartPageItemsTest -->
+      <class name="com.jupiter2.cloud.planittesting.testcases.TC1_ContactPageErrorTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC1_ContactPageErrorTest@37918c79]" name="startBrowser" is-config="true" duration-ms="3313" started-at="2022-01-10T21:06:36 IST" finished-at="2022-01-10T21:06:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC1_ContactPageErrorTest@37918c79]" name="setup" is-config="true" duration-ms="12" started-at="2022-01-10T21:06:39 IST" finished-at="2022-01-10T21:06:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateErrors()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC1_ContactPageErrorTest@37918c79]" name="validateErrors" duration-ms="1198" started-at="2022-01-10T21:06:39 IST" description="Validate errors on Contact Page" finished-at="2022-01-10T21:06:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateErrors -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC1_ContactPageErrorTest@37918c79]" name="quitBrowser" is-config="true" duration-ms="735" started-at="2022-01-10T21:06:40 IST" finished-at="2022-01-10T21:06:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.jupiter2.cloud.planittesting.testcases.TC1_ContactPageErrorTest -->
+      <class name="com.jupiter2.cloud.planittesting.testcases.TC4_CartPageTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC4_CartPageTest@5dd6264]" name="startBrowser" is-config="true" duration-ms="2620" started-at="2022-01-10T21:07:12 IST" finished-at="2022-01-10T21:07:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC4_CartPageTest@5dd6264]" name="setup" is-config="true" duration-ms="20062" started-at="2022-01-10T21:07:14 IST" finished-at="2022-01-10T21:07:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyPriceAndSubTotal(java.lang.String,java.lang.String)[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC4_CartPageTest@5dd6264]" name="verifyPriceAndSubTotal" duration-ms="5876" started-at="2022-01-10T21:07:35 IST" description="Add items to cart and verify price, subtotal and total of items" data-provider="AddThreeItemsToCart" finished-at="2022-01-10T21:07:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Stuffed Frog,Fluffy Bunny,Valentine Bear]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2,5,3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPriceAndSubTotal -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.jupiter2.cloud.planittesting.testcases.TC4_CartPageTest@5dd6264]" name="quitBrowser" is-config="true" duration-ms="744" started-at="2022-01-10T21:07:40 IST" finished-at="2022-01-10T21:07:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.jupiter2.cloud.planittesting.testcases.TC4_CartPageTest -->
+    </test> <!-- Jupitor2 cloud testing -->
+  </suite> <!-- Jupitor Cloud Test -->
+</testng-results>

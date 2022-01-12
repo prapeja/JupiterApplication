@@ -1,0 +1,4 @@
+com\jupiter2\cloud\planittesting\testcases\TC4_CartPageTest.class
+com\jupiter2\cloud\planittesting\testcases\TC3_CartPageItemsTest.class
+com\jupiter2\cloud\planittesting\testcases\TC1_ContactPageErrorTest.class
+com\jupiter2\cloud\planittesting\testcases\TC2_ContactPageSubmitTest.class
