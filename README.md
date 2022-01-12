@@ -6,7 +6,7 @@ Test Automation Tool: Selenium with Java
 Framework Used to design scripts: Maven - Page Object Model with TestNG framework
 Integrated to GIT and used to run using Jenkins Command Line Interface
 
-This framework supports multiple browsers execution even on headless mode, but as of now targeted to Google Chrome only.
+This framework supports execution on multiple browsers including headless mode, but the scripts are targeted to Google Chrome only.
 
 Below Testcases are automated:
 
